@@ -98,7 +98,7 @@ All requests are moderated for policy compliance, ensuring the API is safe for c
 ## 📈 **Summary**
 - **Context-aware** and **AI-native** translation engine
 - **Human-like quality**, not robotic literalism
-- **Global coverage** of 60+ languages
+- **Global coverage** of 100+ languages
 - **Up to 1,000 characters per request** (scales to millions monthly)
 - **Instant JSON API** — plug and play in minutes
 
